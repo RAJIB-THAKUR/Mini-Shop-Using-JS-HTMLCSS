@@ -122,18 +122,18 @@ class ProductList extends Component{
 
     fetchProducts() {
         this.products= [
-            new Product('Complete Bedding','/img/Complete Bedding.webp','Martha Stewart Complete Collection for a Luxurious Bed',999.99),
+            new Product('Complete Bedding','/Mini-Shop-Using-JS-HTMLCSS/img/Complete Bedding.webp','Martha Stewart Complete Collection for a Luxurious Bed',999.99),
 
-            new Product('A Bedspread','/img/Bedspread.webp','Beautiful things for beautiful peoples',410.11),
+            new Product('A Bedspread','/Mini-Shop-Using-JS-HTMLCSS/img/Bedspread.webp','Beautiful things for beautiful peoples',410.11),
 
 
-            new Product('A Pillow','/img/Soft-Pillow-Green.jpg','A Soft Pillow',19.99),
+            new Product('A Pillow','/Mini-Shop-Using-JS-HTMLCSS/img/Soft-Pillow-Green.jpg','A Soft Pillow',19.99),
     
-            new Product('A Crapet','/img/Carpet.webp','A Carpet especially made for special',99.60),
+            new Product('A Crapet','/Mini-Shop-Using-JS-HTMLCSS/img/Carpet.webp','A Carpet especially made for special',99.60),
     
-            new Product('A Blanket','/img/Blanket.jpg','A Pure Woolen Blanket',229.85),
+            new Product('A Blanket','/Mini-Shop-Using-JS-HTMLCSS/img/Blanket.jpg','A Pure Woolen Blanket',229.85),
 
-            new Product('A Comforter','/img/comforter.jpg','Keep yourself cosy & warm with our "All Weather Comforter"',350.69),
+            new Product('A Comforter','/Mini-Shop-Using-JS-HTMLCSS/img/comforter.jpg','Keep yourself cosy & warm with our "All Weather Comforter"',350.69),
 
             
         ] ;
